@@ -1,9 +1,6 @@
+# PCA: EXP-1  SUM ARRAY GPU
 ### Name: Sri muthazhagan P
 ### Register Number: 2305002024
-
-# PCA: EXP-1  SUM ARRAY GPU
-<h3>NAME:Balaji N</h3>
-<h3>REGISTER NO:2305002002</h3>
 
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
